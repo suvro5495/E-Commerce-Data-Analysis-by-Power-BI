@@ -57,5 +57,5 @@ As I delved into the depths of this repository, prepare to be amazed by the weal
 
 6. 🔢 **By the Numbers**: Immerse yourself in a world of captivating statistics, including Total Quantity Sold (178K units 📦), Total Shipping Cost ($1.35M 💸), Total Discounts ($7.33K 💰), and Unique Postal Codes (9994 📮).
 
-![Alt Text]()
-![Alt Text]()
+![Alt Text](https://github.com/suvro5495/E-Commerce-Data-Analysis-by-Power-BI/blob/main/E-commerce%20data%20analysis%20new%2007-05-2024%2023_40_29.png)
+![Alt Text](https://github.com/suvro5495/E-Commerce-Data-Analysis-by-Power-BI/blob/main/E-commerce%20data%20visualisation%2007-05-2024%2023_41_27.png)
