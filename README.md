@@ -10,7 +10,7 @@ In the world of data-driven decision-making, the right tools can make all the di
 
 Power BI is a game-changer in the realm of data analysis and visualization. Its user-friendly interface, robust features, and seamless integration with various data sources make it an indispensable asset for businesses seeking to gain a competitive edge. 💪
 
-With Power BI, we've crafted a series of stunning visualizations that breathe life into our e-commerce sales data. From interactive dashboards to insightful reports, each visual element tells a story, empowering you to make informed decisions that drive growth and profitability. 🌟
+With Power BI, I've crafted a series of stunning visualizations that breathe life into the e-commerce sales data. From interactive dashboards to insightful reports, each visual element tells a story, empowering you to make informed decisions that drive growth and profitability. 🌟
 
 ### 📊 Visualizations that Captivate and Inform 🔎
 Prepare to be mesmerized by the visual magic of Power BI as we showcase some of the standout visualizations from our repository:
